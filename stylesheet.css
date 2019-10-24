@@ -202,7 +202,9 @@ transition: all 0.4s ease 0s;
 	
 }
 
-
+.container-b {
+	width: 1000px;
+}
 
 .florist {
 font-family: 'Kaushan Script', cursive;  
